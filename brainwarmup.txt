@@ -1,0 +1,12 @@
+It depends on how often we want to change the content of the course:
+
+if the course contents dont change for a long time, we should keep the files already zipped cause:
+
+1) it take less storage space
+2) less time to download files
+3) although we need more processing power, its like using a powerful machine for less time as compared to less powerful machine for a long time
+
+but if the course content change frequently, the professor has to keep unzipping and zipping the files, which will put a lot of load on the server. So i think it will be better to keep the file unzipped as 
+1) the students can select the files which they want to zip.
+2) easier to change content
+3) much lower computational power requireds
