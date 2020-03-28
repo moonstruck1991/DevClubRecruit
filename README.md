@@ -1,8 +1,5 @@
 # DevClubRecruit
 DevClubRecruit assign
-
-Committing final build
-
 wanted to add borders, but there were some problems and i couldnt figure it out :(
 
 the website is in devrecruit by the name of Page.html
